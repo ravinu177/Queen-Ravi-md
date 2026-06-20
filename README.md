@@ -1,7 +1,7 @@
 <h1 align="center">👑 QUEEN RIAM </h1>
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com" />
+  <img src="" />
 </p>
 
 <p align="center">
